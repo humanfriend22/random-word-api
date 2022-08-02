@@ -1,0 +1,17 @@
+{
+  "name": "random-word-api",
+  "version": "1.0.0",
+  "private": true,
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server"
+  },
+  "repository": "https://github.com/humanfriend22/random-word-api",
+  "author": "humanfriend22 <humanfriend22@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1",
+    "word-list": "^3.1.0"
+  }
+}
