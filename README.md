@@ -2,6 +2,9 @@
 
 A simple API for getting a random word.
 
+### Usage
+Simply send a GET request to one of the API endpoints
+
 ### API
 
 | URL           | Description                          |
